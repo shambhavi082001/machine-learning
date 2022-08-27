@@ -9,9 +9,7 @@ nltk
 textblob
 streamlit
 pillow
-tensorflow
-opencv-contrib-python
-statsmodels
+statsmodelsconda 
 scipy
 ipykernel
 jupyter
