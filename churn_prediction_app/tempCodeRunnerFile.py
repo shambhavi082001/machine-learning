@@ -1,0 +1,1 @@
+r"C:\Users\Shambhavi\Documents\machine learning\churn_prediction_app\model\churn_model_v1.jb"
