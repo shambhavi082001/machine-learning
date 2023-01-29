@@ -7,7 +7,7 @@ import pandas as pd
 
 
 def load_model():
-    return load(r"C:\Users\Shambhavi\Documents\machine learning\churn_prediction_app\model\churn_model_v1.jb")
+    return load(r"C:\Users\Shambhavi\Documents\machine learning\projects ML\churn_prediction_app\model\churn_model_v1.jb")
 
 st.set_page_config(
     page_title="Customer Churn Prediction",
